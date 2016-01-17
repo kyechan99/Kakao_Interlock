@@ -20,7 +20,7 @@
 + 파일 설명 : 
 
 ####사용하실때 참고해야할 부분
->1. 'appname'과 'kakao_app_key' 부분을 네이티브키로 변경 ([res/values/string.xml](https://github.com/kyechan99/Kakao_Interlock/blob/master/kakaoLink/res/values/strings.xml))
+>1. ```appname```과 'kakao_app_key' 부분을 네이티브키로 변경 ([res/values/string.xml](https://github.com/kyechan99/Kakao_Interlock/blob/master/kakaoLink/res/values/strings.xml))
 
 >2. package이름 변경 ([AndroidManifest.xml](https://github.com/kyechan99/Kakao_Interlock/blob/master/kakaoLink/AndroidManifest.xml))
 
