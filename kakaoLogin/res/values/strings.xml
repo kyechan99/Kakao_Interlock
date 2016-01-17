@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kaka</string>
+    <string name="kakao_app_key">c38b4b5c9f1bfd229c51bdc285f52e01</string>
+    
+    <!-- NEW DISIGN -->
+    <string name="title_for_kakao_sdk_sample">Kakao SDK Sample</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="text_for_login_kakao_account">Log in with Kakao</string>
+
+    <string name="image_upload">Image Upload</string>
+    <string name="pick_iamges">Pick Images</string>
+
+    <string name="send_message">Send the message below?</string>
+
+    <string-array name="usermgmg_gender_types">
+        <item>@string/female</item>
+        <item>@string/male</item>
+    </string-array>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="text_send_message">Send Message</string>
+
+    <string name="message_type">Choose a message type</string>
+    <string-array name="message_types">
+        <item>NORMAL</item>
+        <item>INVITE</item>
+        <item>FEED</item>
+    </string-array>
+
+    <string name="text_send_to_me">Send Message to me</string>
+</resources>
