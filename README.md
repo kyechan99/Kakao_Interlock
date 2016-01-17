@@ -8,9 +8,8 @@
 + 파일 설명 : http://blog.naver.com/kyechan99/220553846500
 
 ###사용하실때 참고해야할 부분
-1. res/values/string.xml
-
->appname과 kakao_app_key, kakao_scheme 부분을 네이티브키로 변경
+>appname과 kakao_app_key, kakao_scheme 부분을 네이티브키로 변경 (res/values/string.xml)
+>package이름 변경 (AndroidManifest.xml)
 
 ## Kakao Login (카카오 로그인)
 + 파일 설명 : 
