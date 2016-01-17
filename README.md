@@ -6,6 +6,8 @@
 + [블로그 주소](blog.naver.com/kyechan99)
 
 
+
+
 ## Kakao Link (카카오 링크)
 + 파일 설명 : http://blog.naver.com/kyechan99/220553846500
 
@@ -13,6 +15,10 @@
 >1. ```appname```과 ```kakao_app_key```, ```kakao_scheme``` 부분을 네이티브키로 변경 ([res/values/string.xml](https://github.com/kyechan99/Kakao_Interlock/blob/master/kakaoLink/res/values/strings.xml))
 
 >2. ```package```이름 변경 ([AndroidManifest.xml](https://github.com/kyechan99/Kakao_Interlock/blob/master/kakaoLink/AndroidManifest.xml))
+
+>3. ```activity``` 파일들 ([.java](https://github.com/kyechan99/Kakao_Interlock/tree/master/kakaoLogin/src/org/cocos2dx/cpp))
+
+
 
 
 
