@@ -6,9 +6,6 @@
 + [블로그 주소](blog.naver.com/kyechan99)
 
 
--
-
-
 
 ## Kakao Link (카카오 링크)
 파일 설명 : http://blog.naver.com/kyechan99/220553846500
@@ -19,9 +16,6 @@
 >2. ```package```이름 변경 ([AndroidManifest.xml](https://github.com/kyechan99/Kakao_Interlock/blob/master/kakaoLink/AndroidManifest.xml))
 
 >3. ```activity``` 파일들 ([.java](https://github.com/kyechan99/Kakao_Interlock/tree/master/kakaoLogin/src/org/cocos2dx/cpp))
-
-
--
 
 
 
@@ -36,9 +30,6 @@
 
 >3. ```activity``` 파일들 ([.java](https://github.com/kyechan99/Kakao_Interlock/tree/master/kakaoLogin/src/org/cocos2dx/cpp))
 
-
-
--
 
 
 ## JNI Helper
